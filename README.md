@@ -1,2 +1,7 @@
-# Data-Analytics-Project-Automobile-Sales-data
-I built an end-to-end sales analysis project using Excel, PostgreSQL, and Power BI. I designed the database schema, imported and cleaned CSV data, removed duplicates, performed SQL-based exploratory analysis, calculated KPIs such as total revenue and average order value
+# Auto Sales Data Analysis Project
+## Project Overview
+This project is an end-to-end Sales Data Analysis solution built using:
+Excel
+PostgreSQL (pgAdmin)
+Power BI
+The goal of this project is to transform raw sales data into meaningful business insights through data cleaning, SQL analysis, KPI calculation, and interactive dashboard visualization.
