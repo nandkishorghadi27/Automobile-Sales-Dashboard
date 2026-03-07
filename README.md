@@ -25,8 +25,7 @@ Validated numeric fields
 ## Database Design (PostgreSQL)
 Created structured relational schema<br> 
 Defined appropriate data types<br> 
-Imported cleaned CSV data<br> 
-Optimized using indexes
+Imported cleaned CSV data
 
 ## Exploratory Data Analysis (SQL)
 Performed SQL queries to answer business questions:<br> 
@@ -40,8 +39,8 @@ Average Order Value
 
 ## KPI Calculation
 Key Performance Indicators calculated:<br> 
-Total Revenue0<br> 
- Total Orders<br> 
+Total Revenue<br> 
+Total Orders<br> 
 Total Customers<br> 
 Average Order Value<br> 
 Revenue by Product Line<br> 
