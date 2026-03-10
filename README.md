@@ -9,7 +9,7 @@ The goal of this project is to transform raw sales data into meaningful business
 
 ## Dataset used
 Total Records: 55,500<br>
-<a href="healthcare_dataset_org.csv" target="_blank">healthcare_dataset_org.csv</a> <br>
+<a href="auto-sales-data.csv" target="_blank">auto-sales-data.csv</a> <br>
 Columns Included:<br>
 
 1. Ordernumber
@@ -42,6 +42,9 @@ Columns Included:<br>
 3. What is the overall average order value?<br> 
 4. Which country contributes the most sales?<br> 
 5. How does revenue change month over month?
+
+## Database 
+<a href="Automobile_sales_database" target="_blank">Automobile_sales_database</a> <br>
 
 ## Process
 Strong SQL fundamentals<br> 
