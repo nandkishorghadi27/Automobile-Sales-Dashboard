@@ -1,76 +1,49 @@
 # Auto Sales Data Analysis Project
 
 ## Project Overview
-This project is an end-to-end Sales Data Analysis solution built using: <br>
-Excel<br> 
-PostgreSQL (pgAdmin)<br> 
-Power BI<br>
 The goal of this project is to transform raw sales data into meaningful business insights through data cleaning, SQL analysis, KPI calculation, and interactive dashboard visualization.
 
-## Tools & Technologies Used
-Excel - Initial data exploration & cleaning<br> 
-PostgreSQL (pgAdmin) - Database creation, SQL queries, data analysis<br> 
-Power BI - Data visualization & dashboard creation<br> 
+## Dashboard
 
-## Data Collection 
-Imported Auto Sales CSV dataset.
+<img src="Automobile-Sales-Dashboard.jpg" alt="Automobile Sales Dashboard">
 
-## Data Cleaning
-Handled missing values<br> 
-Removed duplicate records<br> 
-Standardized data types<br> 
-Verified date formats<br> 
-Validated numeric fields
+## Dataset used
+Total Records: 55,500<br>
+<a href="healthcare_dataset_org.csv" target="_blank">healthcare_dataset_org.csv</a> <br>
+Columns Included:<br>
 
-## Database Design (PostgreSQL)
-Created structured relational schema<br> 
-Defined appropriate data types<br> 
-Imported cleaned CSV data
-
-## Exploratory Data Analysis (SQL)
-Performed SQL queries to answer business questions:<br> 
-Total Revenue<br> 
-Revenue by Year<br> 
-Revenue by Country<br> 
-Best-Selling Product Lines<br> 
-Top Customers<br> 
-Monthly Sales Trends<br> 
-Average Order Value
-
-## KPI Calculation
-Key Performance Indicators calculated:<br> 
-Total Revenue<br> 
-Total Orders<br> 
-Total Customers<br> 
-Average Order Value<br> 
-Revenue by Product Line<br> 
-Revenue by Country<br> 
-Sales Growth Trend
-
-## Dashboard Creation (Power BI)
-Built an interactive dashboard including:<br> 
-Revenue Overview Card<br> 
-Monthly Sales Trend (Line Chart)<br> 
-Sales by Country (Map/Bar Chart)<br> 
-Top 10 Customers<br> 
-Product Line Performance<br> 
-Deal Size Distribution
-
-## Key Business Insights
-Identified top-performing customers contributing major revenue.<br> 
-Determined highest revenue-generating product lines.<br> 
-Observed seasonal sales trends.<br> 
-Measured customer purchasing behavior.<br> 
-Evaluated average revenue per order.
+1. Ordernumber
+2. Quantityordered
+3. Priceeach
+4. Orderlinenumber
+5. Sales
+6. Orderdate
+7. Days_Since_Lastorder
+8. Status
+9. Productline
+10. Msrp
+11. Productcode
+12. Customername
+13. Phone
+14. Addressline1
+15. City
+16. Postalcode
+17. Country
+18. Contactlastname
+19. Contactfirstname
+20. Dealsize
 
 ## Business Questions Solved
-Which product line generates the highest revenue?<br> 
-Who are the top 10 customers?<br> 
-What is the overall average order value?<br> 
-Which country contributes the most sales?<br> 
-How does revenue change month over month?
 
-## What This Project Demonstrates
+<a href="Automobile-Sales-Dashboard.pdf" target="_blank">All Pages Automobile-Sales-Dashboard.pdf</a> <br>
+<br>
+1. Which product line generates the highest revenue?<br> 
+2. Who are the top 10 customers?<br> 
+3. What is the overall average order value?<br> 
+4. Which country contributes the most sales?<br> 
+5. How does revenue change month over month?
+
+## Process
 Strong SQL fundamentals<br> 
 Data cleaning & transformation skills<br> 
 KPI design & business thinking<br> 
@@ -78,11 +51,15 @@ Database schema design<br>
 Analytical problem-solving<br> 
 Dashboard storytelling
 
-## Conclusion
-This project demonstrates the ability to take raw business data and transform it into actionable insights using SQL and visualization tools. It highlights both technical proficiency and analytical thinking suitable for data analyst roles.
+## Project Insight
+Identified top-performing customers contributing major revenue.<br> 
+Determined highest revenue-generating product lines.<br> 
+Observed seasonal sales trends.<br> 
+Measured customer purchasing behavior.<br> 
+Evaluated average revenue per order.
 
-## Interview-Ready Summary
-I built an end-to-end sales analysis project using Excel, PostgreSQL, and Power BI. I designed the database schema, imported and cleaned CSV data, removed duplicates, performed SQL-based exploratory analysis, calculated KPIs such as total revenue and average order value, and generated actionable business insights including top customers and best-performing product lines.
+## Final Conclusion
+This project demonstrates the ability to take raw business data and transform it into actionable insights using SQL and visualization tools. It highlights both technical proficiency and analytical thinking suitable for data analyst roles.
 
 
 
