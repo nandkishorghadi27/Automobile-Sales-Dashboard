@@ -8,7 +8,7 @@ The goal of this project is to transform raw sales data into meaningful business
 <img src="Automobile-Sales-Dashboard.jpg" alt="Automobile Sales Dashboard">
 
 ## Dataset used
-Total Records: 55,500<br>
+Total Records: 2,748<br>
 <a href="auto-sales-data.csv" target="_blank">auto-sales-data.csv</a> <br>
 Columns Included:<br>
 
